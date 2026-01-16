@@ -88,5 +88,4 @@ fabric-project-1/
 ├── docs/          # Architecture diagrams and documentation
 ├── notebooks/     # PySpark notebooks
 ├── pipelines/     # Data pipeline definitions
-├── dataflows/     # Dataflows Gen2 configurations
 └── images/        # Images used in documentation

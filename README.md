@@ -1,4 +1,4 @@
-# Project 1 — End-to-End Data Engineering with Microsoft Fabric
+# Project 1 — End-to-End Data Engineering with Microsoft Fabric (Lakehouse & Pipelines)
 
 ## 📌 Overview
 
